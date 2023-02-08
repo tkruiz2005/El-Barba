@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <Title>El Barba</Title>
-      <img src="MENU.jpg"></img>
+      <img src="BAR.jpg"></img>
     </main>
   );
 }
