@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Barba</Title>
-      <h1>Hello world!</h1>
+      <h1>El barba</h1>
       <Counter />
       <p>
         Visit{" "}
